@@ -1,0 +1,6 @@
+{
+    "net": "https://bsc-dataseed.binance.org",
+    "usdt": "0x55d398326f99059fF775485246999027B3197955",
+    "contract": "0x87025e5D77466173207FA80ADb2D6Fd60f8CfBcA",
+    "backend": "https://backend.rocketone.space"
+}

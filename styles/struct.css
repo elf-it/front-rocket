@@ -1,0 +1,21 @@
+thead button.ascending {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+thead button.ascending::after {
+    content: '▼';
+    display: inline-block;
+    margin-left: 1em;
+}
+
+thead button.descending {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+thead button.descending::after {
+    content: '▲';
+    display: inline-block;
+    margin-left: 1em;
+}
